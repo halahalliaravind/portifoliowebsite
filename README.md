@@ -1,1 +1,1 @@
-PhotoSharing App
+Personal WEBsite
